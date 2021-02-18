@@ -5,7 +5,8 @@ public class TestClaz {
         int a = 1;
         int b = 2;
         int c = 3;
+        int d = a+ b;
         System.out.println("the first protest");
-        System.out.println(c);
+        System.out.println(d);
     }
 }
